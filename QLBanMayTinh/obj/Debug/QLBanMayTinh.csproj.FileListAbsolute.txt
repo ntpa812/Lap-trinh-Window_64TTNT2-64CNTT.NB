@@ -1,0 +1,10 @@
+D:\CHAMKAM\LTWindow\source\QLBanMayTinh\bin\Debug\QLBanMayTinh.exe.config
+D:\CHAMKAM\LTWindow\source\QLBanMayTinh\bin\Debug\QLBanMayTinh.exe
+D:\CHAMKAM\LTWindow\source\QLBanMayTinh\bin\Debug\QLBanMayTinh.pdb
+D:\CHAMKAM\LTWindow\source\QLBanMayTinh\obj\Debug\QLBanMayTinh.csproj.AssemblyReference.cache
+D:\CHAMKAM\LTWindow\source\QLBanMayTinh\obj\Debug\QLBanMayTinh.Form1.resources
+D:\CHAMKAM\LTWindow\source\QLBanMayTinh\obj\Debug\QLBanMayTinh.Properties.Resources.resources
+D:\CHAMKAM\LTWindow\source\QLBanMayTinh\obj\Debug\QLBanMayTinh.csproj.GenerateResource.cache
+D:\CHAMKAM\LTWindow\source\QLBanMayTinh\obj\Debug\QLBanMayTinh.csproj.CoreCompileInputs.cache
+D:\CHAMKAM\LTWindow\source\QLBanMayTinh\obj\Debug\QLBanMayTinh.exe
+D:\CHAMKAM\LTWindow\source\QLBanMayTinh\obj\Debug\QLBanMayTinh.pdb

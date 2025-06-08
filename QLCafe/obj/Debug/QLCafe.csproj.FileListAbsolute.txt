@@ -1,0 +1,10 @@
+D:\CHAMKAM\LTWindow\source\QLCafe\bin\Debug\QLCafe.exe.config
+D:\CHAMKAM\LTWindow\source\QLCafe\bin\Debug\QLCafe.exe
+D:\CHAMKAM\LTWindow\source\QLCafe\bin\Debug\QLCafe.pdb
+D:\CHAMKAM\LTWindow\source\QLCafe\obj\Debug\QLCafe.csproj.AssemblyReference.cache
+D:\CHAMKAM\LTWindow\source\QLCafe\obj\Debug\QLCafe.Form1.resources
+D:\CHAMKAM\LTWindow\source\QLCafe\obj\Debug\QLCafe.Properties.Resources.resources
+D:\CHAMKAM\LTWindow\source\QLCafe\obj\Debug\QLCafe.csproj.GenerateResource.cache
+D:\CHAMKAM\LTWindow\source\QLCafe\obj\Debug\QLCafe.csproj.CoreCompileInputs.cache
+D:\CHAMKAM\LTWindow\source\QLCafe\obj\Debug\QLCafe.exe
+D:\CHAMKAM\LTWindow\source\QLCafe\obj\Debug\QLCafe.pdb

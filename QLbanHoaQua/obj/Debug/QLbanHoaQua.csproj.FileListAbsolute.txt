@@ -1,0 +1,10 @@
+D:\CHAMKAM\LTWindow\source\QLbanHoaQua\bin\Debug\QLbanHoaQua.exe.config
+D:\CHAMKAM\LTWindow\source\QLbanHoaQua\bin\Debug\QLbanHoaQua.exe
+D:\CHAMKAM\LTWindow\source\QLbanHoaQua\bin\Debug\QLbanHoaQua.pdb
+D:\CHAMKAM\LTWindow\source\QLbanHoaQua\obj\Debug\QLbanHoaQua.csproj.AssemblyReference.cache
+D:\CHAMKAM\LTWindow\source\QLbanHoaQua\obj\Debug\QLbanHoaQua.Form1.resources
+D:\CHAMKAM\LTWindow\source\QLbanHoaQua\obj\Debug\QLbanHoaQua.Properties.Resources.resources
+D:\CHAMKAM\LTWindow\source\QLbanHoaQua\obj\Debug\QLbanHoaQua.csproj.GenerateResource.cache
+D:\CHAMKAM\LTWindow\source\QLbanHoaQua\obj\Debug\QLbanHoaQua.csproj.CoreCompileInputs.cache
+D:\CHAMKAM\LTWindow\source\QLbanHoaQua\obj\Debug\QLbanHoaQua.exe
+D:\CHAMKAM\LTWindow\source\QLbanHoaQua\obj\Debug\QLbanHoaQua.pdb
