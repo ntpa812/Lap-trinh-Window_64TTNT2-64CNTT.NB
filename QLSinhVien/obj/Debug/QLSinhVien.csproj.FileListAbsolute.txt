@@ -1,0 +1,10 @@
+D:\CHAMKAM\LTWindow\source\QLSinhVien\bin\Debug\QLSinhVien.exe.config
+D:\CHAMKAM\LTWindow\source\QLSinhVien\bin\Debug\QLSinhVien.exe
+D:\CHAMKAM\LTWindow\source\QLSinhVien\bin\Debug\QLSinhVien.pdb
+D:\CHAMKAM\LTWindow\source\QLSinhVien\obj\Debug\QLSinhVien.csproj.AssemblyReference.cache
+D:\CHAMKAM\LTWindow\source\QLSinhVien\obj\Debug\QLSinhVien.Form1.resources
+D:\CHAMKAM\LTWindow\source\QLSinhVien\obj\Debug\QLSinhVien.Properties.Resources.resources
+D:\CHAMKAM\LTWindow\source\QLSinhVien\obj\Debug\QLSinhVien.csproj.GenerateResource.cache
+D:\CHAMKAM\LTWindow\source\QLSinhVien\obj\Debug\QLSinhVien.csproj.CoreCompileInputs.cache
+D:\CHAMKAM\LTWindow\source\QLSinhVien\obj\Debug\QLSinhVien.exe
+D:\CHAMKAM\LTWindow\source\QLSinhVien\obj\Debug\QLSinhVien.pdb

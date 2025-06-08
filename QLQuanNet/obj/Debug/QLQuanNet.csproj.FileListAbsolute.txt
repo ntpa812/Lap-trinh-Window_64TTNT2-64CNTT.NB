@@ -1,0 +1,10 @@
+D:\CHAMKAM\LTWindow\source\QLQuanNet\obj\Debug\QLQuanNet.csproj.AssemblyReference.cache
+D:\CHAMKAM\LTWindow\source\QLQuanNet\obj\Debug\QLQuanNet.Form1.resources
+D:\CHAMKAM\LTWindow\source\QLQuanNet\obj\Debug\QLQuanNet.Properties.Resources.resources
+D:\CHAMKAM\LTWindow\source\QLQuanNet\obj\Debug\QLQuanNet.csproj.GenerateResource.cache
+D:\CHAMKAM\LTWindow\source\QLQuanNet\obj\Debug\QLQuanNet.csproj.CoreCompileInputs.cache
+D:\CHAMKAM\LTWindow\source\QLQuanNet\bin\Debug\QLQuanNet.exe.config
+D:\CHAMKAM\LTWindow\source\QLQuanNet\bin\Debug\QLQuanNet.exe
+D:\CHAMKAM\LTWindow\source\QLQuanNet\bin\Debug\QLQuanNet.pdb
+D:\CHAMKAM\LTWindow\source\QLQuanNet\obj\Debug\QLQuanNet.exe
+D:\CHAMKAM\LTWindow\source\QLQuanNet\obj\Debug\QLQuanNet.pdb
