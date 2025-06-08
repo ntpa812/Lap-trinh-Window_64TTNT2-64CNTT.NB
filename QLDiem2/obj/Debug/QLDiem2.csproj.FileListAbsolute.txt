@@ -1,0 +1,10 @@
+D:\CHAMKAM\LTWindow\source\QLDiem2\bin\Debug\QLDiem2.exe.config
+D:\CHAMKAM\LTWindow\source\QLDiem2\bin\Debug\QLDiem2.exe
+D:\CHAMKAM\LTWindow\source\QLDiem2\bin\Debug\QLDiem2.pdb
+D:\CHAMKAM\LTWindow\source\QLDiem2\obj\Debug\QLDiem2.csproj.AssemblyReference.cache
+D:\CHAMKAM\LTWindow\source\QLDiem2\obj\Debug\QLDiem2.Form1.resources
+D:\CHAMKAM\LTWindow\source\QLDiem2\obj\Debug\QLDiem2.Properties.Resources.resources
+D:\CHAMKAM\LTWindow\source\QLDiem2\obj\Debug\QLDiem2.csproj.GenerateResource.cache
+D:\CHAMKAM\LTWindow\source\QLDiem2\obj\Debug\QLDiem2.csproj.CoreCompileInputs.cache
+D:\CHAMKAM\LTWindow\source\QLDiem2\obj\Debug\QLDiem2.exe
+D:\CHAMKAM\LTWindow\source\QLDiem2\obj\Debug\QLDiem2.pdb

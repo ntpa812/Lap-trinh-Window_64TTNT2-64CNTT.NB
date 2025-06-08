@@ -1,0 +1,11 @@
+D:\CHAMKAM\LTWindow\source\QLhocTap\obj\Debug\QLhocTap.csproj.AssemblyReference.cache
+D:\CHAMKAM\LTWindow\source\QLhocTap\obj\Debug\QLhocTap.Form1.resources
+D:\CHAMKAM\LTWindow\source\QLhocTap\obj\Debug\QLhocTap.Properties.Resources.resources
+D:\CHAMKAM\LTWindow\source\QLhocTap\obj\Debug\QLhocTap.csproj.GenerateResource.cache
+D:\CHAMKAM\LTWindow\source\QLhocTap\obj\Debug\QLhocTap.csproj.CoreCompileInputs.cache
+D:\CHAMKAM\LTWindow\source\QLhocTap\bin\Debug\QLhocTap.exe.config
+D:\CHAMKAM\LTWindow\source\QLhocTap\bin\Debug\QLhocTap.exe
+D:\CHAMKAM\LTWindow\source\QLhocTap\bin\Debug\QLhocTap.pdb
+D:\CHAMKAM\LTWindow\source\QLhocTap\obj\Debug\QLhocTap.exe
+D:\CHAMKAM\LTWindow\source\QLhocTap\obj\Debug\QLhocTap.pdb
+D:\CHAMKAM\LTWindow\source\QLhocTap\obj\Debug\QLhocTap.Form2.resources

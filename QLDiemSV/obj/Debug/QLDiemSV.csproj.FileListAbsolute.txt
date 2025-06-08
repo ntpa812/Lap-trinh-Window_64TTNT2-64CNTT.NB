@@ -1,0 +1,10 @@
+D:\CHAMKAM\LTWindow\source\QLDiemSV\bin\Debug\QLDiemSV.exe.config
+D:\CHAMKAM\LTWindow\source\QLDiemSV\bin\Debug\QLDiemSV.exe
+D:\CHAMKAM\LTWindow\source\QLDiemSV\bin\Debug\QLDiemSV.pdb
+D:\CHAMKAM\LTWindow\source\QLDiemSV\obj\Debug\QLDiemSV.csproj.AssemblyReference.cache
+D:\CHAMKAM\LTWindow\source\QLDiemSV\obj\Debug\QLDiemSV.Form1.resources
+D:\CHAMKAM\LTWindow\source\QLDiemSV\obj\Debug\QLDiemSV.Properties.Resources.resources
+D:\CHAMKAM\LTWindow\source\QLDiemSV\obj\Debug\QLDiemSV.csproj.GenerateResource.cache
+D:\CHAMKAM\LTWindow\source\QLDiemSV\obj\Debug\QLDiemSV.csproj.CoreCompileInputs.cache
+D:\CHAMKAM\LTWindow\source\QLDiemSV\obj\Debug\QLDiemSV.exe
+D:\CHAMKAM\LTWindow\source\QLDiemSV\obj\Debug\QLDiemSV.pdb

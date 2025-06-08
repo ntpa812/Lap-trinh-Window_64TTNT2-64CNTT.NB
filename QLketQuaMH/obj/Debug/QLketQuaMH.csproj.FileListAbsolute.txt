@@ -1,0 +1,11 @@
+D:\CHAMKAM\LTWindow\source\QLketQuaMH\bin\Debug\QLketQuaMH.exe.config
+D:\CHAMKAM\LTWindow\source\QLketQuaMH\bin\Debug\QLketQuaMH.exe
+D:\CHAMKAM\LTWindow\source\QLketQuaMH\bin\Debug\QLketQuaMH.pdb
+D:\CHAMKAM\LTWindow\source\QLketQuaMH\obj\Debug\QLketQuaMH.csproj.AssemblyReference.cache
+D:\CHAMKAM\LTWindow\source\QLketQuaMH\obj\Debug\QLketQuaMH.Form1.resources
+D:\CHAMKAM\LTWindow\source\QLketQuaMH\obj\Debug\QLketQuaMH.Properties.Resources.resources
+D:\CHAMKAM\LTWindow\source\QLketQuaMH\obj\Debug\QLketQuaMH.csproj.GenerateResource.cache
+D:\CHAMKAM\LTWindow\source\QLketQuaMH\obj\Debug\QLketQuaMH.csproj.CoreCompileInputs.cache
+D:\CHAMKAM\LTWindow\source\QLketQuaMH\obj\Debug\QLketQuaMH.exe
+D:\CHAMKAM\LTWindow\source\QLketQuaMH\obj\Debug\QLketQuaMH.pdb
+D:\CHAMKAM\LTWindow\source\QLketQuaMH\obj\Debug\QLketQuaMH.Form2.resources
