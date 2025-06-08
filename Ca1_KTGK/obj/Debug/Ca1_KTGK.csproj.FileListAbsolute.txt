@@ -1,0 +1,10 @@
+D:\CHAMKAM\LTWindow\source\Ca1_KTGK\bin\Debug\Ca1_KTGK.exe.config
+D:\CHAMKAM\LTWindow\source\Ca1_KTGK\bin\Debug\Ca1_KTGK.exe
+D:\CHAMKAM\LTWindow\source\Ca1_KTGK\bin\Debug\Ca1_KTGK.pdb
+D:\CHAMKAM\LTWindow\source\Ca1_KTGK\obj\Debug\Ca1_KTGK.csproj.AssemblyReference.cache
+D:\CHAMKAM\LTWindow\source\Ca1_KTGK\obj\Debug\Ca1_KTGK.Form1.resources
+D:\CHAMKAM\LTWindow\source\Ca1_KTGK\obj\Debug\Ca1_KTGK.Properties.Resources.resources
+D:\CHAMKAM\LTWindow\source\Ca1_KTGK\obj\Debug\Ca1_KTGK.csproj.GenerateResource.cache
+D:\CHAMKAM\LTWindow\source\Ca1_KTGK\obj\Debug\Ca1_KTGK.csproj.CoreCompileInputs.cache
+D:\CHAMKAM\LTWindow\source\Ca1_KTGK\obj\Debug\Ca1_KTGK.exe
+D:\CHAMKAM\LTWindow\source\Ca1_KTGK\obj\Debug\Ca1_KTGK.pdb

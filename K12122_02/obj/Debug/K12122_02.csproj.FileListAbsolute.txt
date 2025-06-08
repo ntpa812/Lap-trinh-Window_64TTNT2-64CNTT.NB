@@ -1,0 +1,10 @@
+D:\CHAMKAM\LTWindow\source\K12122_02\bin\Debug\K12122_02.exe.config
+D:\CHAMKAM\LTWindow\source\K12122_02\bin\Debug\K12122_02.exe
+D:\CHAMKAM\LTWindow\source\K12122_02\bin\Debug\K12122_02.pdb
+D:\CHAMKAM\LTWindow\source\K12122_02\obj\Debug\K12122_02.csproj.AssemblyReference.cache
+D:\CHAMKAM\LTWindow\source\K12122_02\obj\Debug\K12122_02.Form1.resources
+D:\CHAMKAM\LTWindow\source\K12122_02\obj\Debug\K12122_02.Properties.Resources.resources
+D:\CHAMKAM\LTWindow\source\K12122_02\obj\Debug\K12122_02.csproj.GenerateResource.cache
+D:\CHAMKAM\LTWindow\source\K12122_02\obj\Debug\K12122_02.csproj.CoreCompileInputs.cache
+D:\CHAMKAM\LTWindow\source\K12122_02\obj\Debug\K12122_02.exe
+D:\CHAMKAM\LTWindow\source\K12122_02\obj\Debug\K12122_02.pdb

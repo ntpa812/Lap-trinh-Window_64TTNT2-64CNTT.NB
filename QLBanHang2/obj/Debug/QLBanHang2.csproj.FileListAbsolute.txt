@@ -1,0 +1,10 @@
+D:\CHAMKAM\LTWindow\source\QLBanHang2\obj\Debug\QLBanHang2.csproj.AssemblyReference.cache
+D:\CHAMKAM\LTWindow\source\QLBanHang2\obj\Debug\QLBanHang2.Form1.resources
+D:\CHAMKAM\LTWindow\source\QLBanHang2\obj\Debug\QLBanHang2.Properties.Resources.resources
+D:\CHAMKAM\LTWindow\source\QLBanHang2\obj\Debug\QLBanHang2.csproj.GenerateResource.cache
+D:\CHAMKAM\LTWindow\source\QLBanHang2\obj\Debug\QLBanHang2.csproj.CoreCompileInputs.cache
+D:\CHAMKAM\LTWindow\source\QLBanHang2\bin\Debug\QLBanHang2.exe.config
+D:\CHAMKAM\LTWindow\source\QLBanHang2\bin\Debug\QLBanHang2.exe
+D:\CHAMKAM\LTWindow\source\QLBanHang2\bin\Debug\QLBanHang2.pdb
+D:\CHAMKAM\LTWindow\source\QLBanHang2\obj\Debug\QLBanHang2.exe
+D:\CHAMKAM\LTWindow\source\QLBanHang2\obj\Debug\QLBanHang2.pdb
