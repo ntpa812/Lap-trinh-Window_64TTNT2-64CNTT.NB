@@ -1,0 +1,10 @@
+D:\CHAMKAM\LTWindow\source\QLxemPhim\bin\Debug\QLxemPhim.exe.config
+D:\CHAMKAM\LTWindow\source\QLxemPhim\bin\Debug\QLxemPhim.exe
+D:\CHAMKAM\LTWindow\source\QLxemPhim\bin\Debug\QLxemPhim.pdb
+D:\CHAMKAM\LTWindow\source\QLxemPhim\obj\Debug\QLxemPhim.csproj.AssemblyReference.cache
+D:\CHAMKAM\LTWindow\source\QLxemPhim\obj\Debug\QLxemPhim.Form1.resources
+D:\CHAMKAM\LTWindow\source\QLxemPhim\obj\Debug\QLxemPhim.Properties.Resources.resources
+D:\CHAMKAM\LTWindow\source\QLxemPhim\obj\Debug\QLxemPhim.csproj.GenerateResource.cache
+D:\CHAMKAM\LTWindow\source\QLxemPhim\obj\Debug\QLxemPhim.csproj.CoreCompileInputs.cache
+D:\CHAMKAM\LTWindow\source\QLxemPhim\obj\Debug\QLxemPhim.exe
+D:\CHAMKAM\LTWindow\source\QLxemPhim\obj\Debug\QLxemPhim.pdb
